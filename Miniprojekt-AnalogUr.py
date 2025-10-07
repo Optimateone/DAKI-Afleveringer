@@ -1,7 +1,7 @@
 import pygame #bruger pygame til at tegne former
 import math #bruger math til at beregne visernes placering, takkernes placering mm. 
 import time #henter pakken tid, så jeg kan benytte min computers lokale tid.
-import sys # 
+import sys #bruger sys til at afslutte programmet og lukke vinduet
 import random #bruges til sneen 
 
 pygame.init()
